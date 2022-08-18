@@ -1,6 +1,6 @@
 ### Hi there, I'm Weni.
 
-- 👀 I’m interested in artificial intelligence especially in machine learning, deep learning, computer vision, and data science.
+- 👀 I’m interested in artificial intelligence especially in machine learning, deep learning, computer vision, and data science. I've experience in developed multiple projects ranging from AI products, interactive websites, dekstop applications, database systems, and more.
 - 💞️ I’m looking to collaborate on and project involing artificial intelligence, machine learning, deep learning, computer vision, and data science.
 
 ### Connect with me:
