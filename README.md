@@ -1,7 +1,7 @@
 ### Hi there, I'm Weni.
 
-- 👀 I’m interested in artificial intelligence especially in machine learning, deep learning, computer vision, and data science. I've experience in developed multiple projects ranging from AI products, interactive websites, dekstop applications, database systems, and more.
-- 💞️ I’m looking to collaborate on and project involing artificial intelligence, machine learning, deep learning, computer vision, and data science.
+- 👀 I am a Software Engineer with experience in developing various projects ranging from interactive websites, desktop applications, mobile applications, database systems, AI products and more. As someone who loves to learn, what makes me feel passionate to be a software engineer is because this field allows me to keep learning something new such as new programming languages, new frameworks, new libraries, new packages, new tools, and more.
+- 💞️ I’m looking to collaborate on project involing software development.
 
 ### Connect with me:
 
