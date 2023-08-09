@@ -1,6 +1,6 @@
 ### Hi there, I'm Weni.
 
-- 👀 I am a Software Engineer with experience in developing various projects ranging from responsive websites, microservices REST APIs, desktop and mobile applications, database systems, AI products and more. As someone who loves to learn, what makes me feel passionate to be a software engineer is because this field allows me to keep learning something new such as new programming languages, new frameworks, new libraries, new tools, and more.
+- 👀 I am a Software Engineer with experience in developing various projects ranging from responsive websites, microservices REST API, desktop and mobile applications, database systems, AI products and more. As someone who loves to learn, what makes me feel passionate to be a software engineer is because this field allows me to keep learning something new such as new programming languages, new frameworks, new libraries, new tools, and more.
 - 💞️ I’m looking to collaborate on project involing software development.
 
 ### Connect with me:
